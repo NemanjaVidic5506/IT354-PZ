@@ -20,12 +20,6 @@ A modern web application for managing apartment rentals, built with React.js and
 - React Router for navigation
 - React Context API for state management
 
-## Prerequisites
-
-- Node.js (v18 or higher)
-- npm or yarn
-- Git
-
 ## Installation
 
 1. Clone the repository:
@@ -74,9 +68,5 @@ rentapp/
 ```
 
 
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 # IT354-PZ
