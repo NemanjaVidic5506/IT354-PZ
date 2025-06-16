@@ -1,0 +1,197 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123",
+      "isAdmin": true
+    },
+    {
+      "id": "2",
+      "username": "user",
+      "password": "user123",
+      "isAdmin": false
+    },
+    {
+      "id": "9a6d",
+      "username": "vida",
+      "password": "123",
+      "isAdmin": false
+    },
+    {
+      "id": "e705",
+      "username": "vida4",
+      "password": "Neca48",
+      "isAdmin": false
+    },
+    {
+      "id": "5a94",
+      "username": "Nemanja",
+      "password": "Nemanja4",
+      "isAdmin": false
+    }
+  ],
+  "listings": [
+    {
+      "id": "1",
+      "title": "Luxury Beachfront Villa",
+      "description": "Stunning beachfront villa with panoramic ocean views, private pool, and modern amenities. Perfect for a luxurious getaway.",
+      "price": 500,
+      "location": "Miami Beach, FL",
+      "image": "https://images.unsplash.com/photo-1613977257363-707ba9348227?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "maxGuests": 8
+    },
+    {
+      "id": "2",
+      "title": "Cozy Mountain Cabin",
+      "description": "Rustic mountain cabin with breathtaking views, fireplace, and hiking trails nearby. Ideal for nature lovers.",
+      "price": 250,
+      "location": "Aspen, CO",
+      "image": "https://images.unsplash.com/photo-1523217582562-09d0def993a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1480&q=80",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "maxGuests": 6
+    },
+    {
+      "id": "3",
+      "title": "Downtown Loft",
+      "description": "Modern loft in the heart of the city, walking distance to restaurants and attractions. Perfect for urban explorers.",
+      "price": 200,
+      "location": "New York, NY",
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1473&q=80",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "maxGuests": 2
+    },
+    {
+      "id": "4",
+      "title": "Desert Oasis",
+      "description": "Unique desert retreat with private hot tub, stunning sunset views, and modern amenities. Perfect for a romantic getaway.",
+      "price": 350,
+      "location": "Scottsdale, AZ",
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "maxGuests": 4
+    },
+    {
+      "id": "5",
+      "title": "Lakefront Cottage",
+      "description": "Charming cottage on the lake with private dock, kayaks, and fishing equipment. Perfect for water enthusiasts.",
+      "price": 275,
+      "location": "Lake Tahoe, CA",
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "maxGuests": 6
+    },
+    {
+      "id": "6",
+      "title": "Historic Brownstone",
+      "description": "Beautifully restored brownstone in a historic neighborhood, featuring original details and modern comforts.",
+      "price": 400,
+      "location": "Boston, MA",
+      "image": "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "maxGuests": 8
+    },
+    {
+      "id": "7",
+      "title": "Tropical Treehouse",
+      "description": "Unique treehouse experience in a tropical setting, surrounded by nature and wildlife. Perfect for adventure seekers.",
+      "price": 225,
+      "location": "Kauai, HI",
+      "image": "https://images.unsplash.com/photo-1518780664697-55e3ad937233?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "maxGuests": 2
+    },
+    {
+      "id": "8",
+      "title": "Wine Country Villa",
+      "description": "Elegant villa in the heart of wine country, featuring a private vineyard tour and wine tasting experience.",
+      "price": 450,
+      "location": "Napa Valley, CA",
+      "image": "https://images.unsplash.com/photo-1613490493576-7fde63acd811?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "maxGuests": 6
+    },
+    {
+      "id": "9",
+      "title": "Urban Penthouse",
+      "description": "Luxurious penthouse with rooftop terrace, city views, and high-end finishes. Perfect for a sophisticated stay.",
+      "price": 600,
+      "location": "Chicago, IL",
+      "image": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "maxGuests": 4
+    },
+    {
+      "id": "10",
+      "title": "Seaside Bungalow",
+      "description": "Charming bungalow steps from the beach, featuring a private patio and outdoor shower. Perfect for beach lovers.",
+      "price": 300,
+      "location": "Malibu, CA",
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "maxGuests": 4
+    }
+  ],
+  "reservations": [
+    {
+      "id": "b66e",
+      "listingId": 2,
+      "userId": "2",
+      "startDate": "2025-06-24",
+      "endDate": "2025-06-27",
+      "totalPrice": 750,
+      "status": "confirmed"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "listingId": 1,
+      "userId": 2,
+      "rating": 5,
+      "title": "Amazing stay!",
+      "comment": "The property was exactly as described. Clean, modern, and in a great location. The host was very responsive and helpful.",
+      "pros": [
+        "Great location",
+        "Clean and modern",
+        "Responsive host"
+      ],
+      "cons": [
+        "Parking was a bit tight"
+      ],
+      "date": "2024-03-15",
+      "isVerified": true,
+      "ownerResponse": "Thank you for your kind words! We're glad you enjoyed your stay and hope to host you again soon."
+    },
+    {
+      "id": 2,
+      "listingId": 1,
+      "userId": 2,
+      "rating": 4,
+      "title": "Great experience",
+      "comment": "Very comfortable stay with all amenities as promised. The view was spectacular!",
+      "pros": [
+        "Beautiful view",
+        "Well equipped",
+        "Comfortable"
+      ],
+      "cons": [
+        "Could use better soundproofing"
+      ],
+      "date": "2024-02-20",
+      "isVerified": true,
+      "ownerResponse": null
+    }
+  ]
+}
